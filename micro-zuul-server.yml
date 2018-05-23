@@ -19,9 +19,6 @@ zuul:
 
 #网关路由配置
 
-notoken:
-    /micro-user/demo2,
-    /baidu2/88
     
 sidecar:
   port: 8000
